@@ -10,6 +10,10 @@ offline and the source code is no longer available.
 This is essentially a fork then, based on the latest copy of FLIR that I had access to, v1.2.
 FLIR is licensed under GPL 2.0. If Cory reaches out, I'm happy to grant ownership to him again.
 
+
+Version 1.2 can be downloaded from the tags page:
+https://github.com/amclin/facelift/tags
+
 -Anthony McLin
 May 2013
 
