@@ -11,9 +11,6 @@ This is essentially a fork then, based on the latest copy of FLIR that I had acc
 FLIR is licensed under GPL 2.0. If Cory reaches out, I'm happy to grant ownership to him again.
 
 
-Version 1.2 can be downloaded from the tags page:
-https://github.com/amclin/facelift/tags
-
 -Anthony McLin
 May 2013
 
@@ -34,8 +31,3 @@ Sincerely,
 Cory Mawhorter
 
 ===
-
-Homepage:  http://facelift.mawhorter.net/
-Support:  	http://forums.mawhorter.net/
-Blog:		http://www.mawhorter.net/c/projects/facelift-projects
-Blog RSS:	http://www.mawhorter.net/c/projects/facelift-projects/feed/
