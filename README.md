@@ -8,7 +8,7 @@ Facelift was originally created by Cory Mawhorter, however the site hosting the 
 offline and the source code is no longer available.
 
 This is essentially a fork then, based on the latest copy of FLIR that I had access to, v1.2.
-FLIR is licensed under GPL 2.0. If Cory reaches out, I'm happy to grant ownership to him again.
+FLIR is licensed under GPL 2.0.
 
 
 -Anthony McLin
